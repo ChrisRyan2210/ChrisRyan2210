@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 ## Top Technologies
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisRyan2210&layout=compact&width=350)](https://github.com/ChrisRyan2210/github-readme-stats)
-[![Chris' GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisRyan2210&show_icons=true&width=350)](https://github.com/ChrisRyan2210/github-readme-stats)
+
