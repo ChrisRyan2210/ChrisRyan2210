@@ -18,6 +18,5 @@ Here are some ideas to get you started:
 
 ## Top Technologies
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisRyan2210&layout=compact&width=350)](https://github.com/ChrisRyan2210/github-readme-stats)
+[![React Badge](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=white&labelColor=61DAFB)](https://reactjs.org/)
 
-[![React Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white)](https://reactjs.org/)
