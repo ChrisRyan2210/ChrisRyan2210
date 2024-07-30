@@ -1,17 +1,21 @@
-<!--
-**ChrisRyan2210/ChrisRyan2210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I'm Chris! A Data Analyst & Recent College Graduate!<br/>
 
-Here are some ideas to get you started:
+## 👨‍💻 Data Analytics Projects:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>Irish Tech Job Salary Survey Analysis (SQL, Tableau, Excel)</b>
+  - [Comparing Salaries of Data/Business Analyst to Data Science/Engineering](https://github.com/ChrisRyan2210/URL)
+- <b>Fantasy Football (NFL) Analysis (SQL, Tableau, Excel)</b>
+  - [Looking for correlation between points scored and draft position](https://github.com/ChrisRyan2210/Fantasy-NFL-Analysis)
+
+## 👨‍💻 Software Development Projects:
+
+- <b>PlacementPlanner - Final Year Project (Java, PostgreSQL, Heroku)</b>
+  - [Internship Review Website](https://github.com/ChrisRyan2210/PlacementPlanner)
+- <b>Expense Tracker App (React, NodeJS, SQLite)</b>
+  - [Mobile App to Track Income/Expenditure](https://github.com/ChrisRyan2210/ExpenseTrackerApp_v1)
+ 
+## Certifications
+
 ## Socials
 
 [![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/christopher-ryan-8229a81b9/)
