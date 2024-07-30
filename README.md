@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 ## Top Technologies
 
+[![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org/)
 [![SQL Server Badge](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
 [![SSIS Badge](https://img.shields.io/badge/SSIS-003366?style=for-the-badge&logo=Microsoft&logoColor=white)](https://docs.microsoft.com/en-us/sql/integration-services/sql-server-integration-services?view=sql-server-ver15)
 [![Tableau Badge](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://www.tableau.com/)
