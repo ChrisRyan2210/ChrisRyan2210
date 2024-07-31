@@ -4,8 +4,8 @@
 
 - <b>Irish Tech Job Salary Survey Analysis (SQL, Tableau, Excel)</b>
   - [Comparing Salaries of Data/Business Analyst to Data Science/Engineering](https://github.com/ChrisRyan2210/IrishSalarySurveyAnalysis)
-- <b>Fantasy Football (NFL) Analysis (SQL, Tableau, Excel)</b>
-  - [Looking for correlation between points scored and draft position](https://github.com/ChrisRyan2210/Fantasy-NFL-Analysis)
+- <b>Fantasy Football (NFL) Analysis (SQL, Tableau, SSIS, Excel)</b>
+  - [Finding correlations between fantasy points scored & draft round/college conference](https://github.com/ChrisRyan2210/Fantasy-NFL-Analysis)
 
 ## 👨‍💻 Software Development Projects:
 
