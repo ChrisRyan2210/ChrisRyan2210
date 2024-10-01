@@ -2,6 +2,8 @@
 
 ## 👨‍💻 Data Analytics Projects:
 
+- <b>2024 NFL Wide Receiver Statistical Analysis (Python, SQL, Tableau)</b>
+  - [Analysing NFL Wide Receiver's performance to find undervalued fantasy players](https://github.com/ChrisRyan2210/Fantasy_Football_YAC-Targets)
 - <b>Irish Tech Job Salary Survey Analysis (SQL, Tableau, Excel)</b>
   - [Comparing Salaries of Data/Business Analyst to Data Science/Engineering](https://github.com/ChrisRyan2210/IrishSalarySurveyAnalysis)
 - <b>Fantasy Football (NFL) Analysis (SQL, Tableau, SSIS, Excel)</b>
